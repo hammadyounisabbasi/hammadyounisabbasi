@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Currently focused on building strong foundations in Machine Learning Engineering<br><br>📊 Interested in Data Engineering, Pandas, and Kaggle competitions<br><br>💻 Hands-on experience with C++, Python, SQL, and Linux<br><br>🧠 Strong interest in DSA, Operating Systems, DBMS, and Automata Theory<br><br>🌱 Continuously improving problem-solving and English communication skills
+🎯 Currently focused on building strong foundations in Agentic AI<br><br>📊 Interested in Data Engineering, Pandas, and Kaggle competitions<br><br>💻 Hands-on experience with C++, Langchain, Python, SQL, and Linux<br><br>🧠 Strong interest in DSA, Operating Systems, DBMS, AI and Automata Theory<br><br>🌱 Continuously improving problem-solving and English communication skills
 
 
 ## 🌐 Socials:
